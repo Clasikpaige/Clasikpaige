@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Clasikpaige
-- 👀 I’m interested in languages frameworks ...
-Im all in for open source projects 😉
+- 👋 hey there , I’m @Clasikpaige
+- I’m interested in languages frameworks ...
+And am all in for open source projects 😉
 - 📫 How to reach me ...
 @paigelasgidi>> twitter handle
 <!---
