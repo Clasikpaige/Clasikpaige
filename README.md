@@ -1,8 +1,5 @@
 **👋 hey there , I’m @Clasikpaige**
-- I’m interested in languages frameworks ...
-And am all in for open source projects 
-@paigelasgidi>> twitter handle
-
+Software developer / DevOps engineer i have a enjoy working with _Nextjs & React js_ i also have experience with a variety of back-end technologies 
 I have worked on several open source projects and i am willing to learn more advance technologies to solve real life problems and enhance the development of magical things. I enjoy working with Nextjs & react js , also have experience with a variety of backend technologies.
 
 <!---
