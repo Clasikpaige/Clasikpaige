@@ -3,7 +3,8 @@ Software developer || DevOps engineer|| ethical hacker ||
 
 I have worked on several open source projects and i am willing to learn more advance technologies to solve real life problems and enhance the development of magical things. 
 
-enjoy working with Nextjs & react js for front-end developments also have experience with a variety of backend technologies. , 
+enjoy working with Nextjs & react js for front-end developments 
+also have experience with a variety of backend technologies. , 
 
 <!---
 Clasikpaige/Clasikpaige is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
