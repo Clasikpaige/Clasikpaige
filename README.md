@@ -1,14 +1,5 @@
-**👋 hey there , I’m @Clasikpaige**
-Software developer || DevOps engineer|| ethical hacker || 
+Hacker | Machine Learning Engineer
 
-I have worked on several open source projects and i am willing to learn more advance technologies to solve real life problems and enhance the development of magical things. 
+Specializing in leveraging advanced machine learning frameworks like TensorFlow and PyTorch, alongside Python libraries for data analysis and modeling. Experienced in developing and optimizing deep learning solutions for complex real-world applications. Proficient in MATLAB for mathematical computing and algorithm development.
 
-Have profience coding experience with: javascript, python , typescript 
-also have experience with a variety of frontend -backend technologies. , 
-
-<!---
-Clasikpaige/Clasikpaige is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-😉
-- 📫 How to reach me ...
+Dedicated to exploring innovative technologies and building scalable, impactful solutions.
